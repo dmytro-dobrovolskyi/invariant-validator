@@ -1,4 +1,4 @@
-package com.ddobrovolskyi.validator.example;
+package com.github.dmytro.dobrovolskyi.validator.example.data;
 
 public class Address {
     private final String state;

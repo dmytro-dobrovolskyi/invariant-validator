@@ -1,4 +1,4 @@
-package com.ddobrovolskyi.validator;
+package com.github.dmytro.dobrovolskyi.validator;
 
 import org.apache.commons.lang3.StringUtils;
 
